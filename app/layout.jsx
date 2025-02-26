@@ -8,8 +8,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Online Code Compiler",
-  description: "By Arjun Saravanakumar",
+  title: "Job Application Tracker",
+  description: "By Arjun Saravanakumar makes your tracking easy",
 };
 
 export default function RootLayout({ children }) {
